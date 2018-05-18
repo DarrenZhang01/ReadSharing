@@ -1,4 +1,4 @@
-# Final Project (For the detailed design and user instruction of the final project, Please Read Solutions.md)
+# Readsharing System
  - Project Introduction
 
 Topic: 	
