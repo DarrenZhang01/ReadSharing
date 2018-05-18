@@ -4,7 +4,8 @@
 Topic: 	
 
 	A reading commenting and communicating platform using open library API
-			(API url: https://openlibrary.org/developers/api)
+			(API url: <a href="https://openlibrary.org/developers/api">
+            https://openlibrary.org/developers/api</a>)
 
 Group:
 
