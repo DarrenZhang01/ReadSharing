@@ -2,8 +2,7 @@
  - Project Introduction
 
 Topic: 	
-
-	A reading commenting and communicating platform using open library API
+A reading commenting and communicating platform using open library API
 			(API url: <a href="https://openlibrary.org/developers/api">
             https://openlibrary.org/developers/api</a>)
 
